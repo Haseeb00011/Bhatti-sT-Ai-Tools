@@ -1,0 +1,8 @@
+{
+  "name": "Bhatti Al Tools",
+  "description": "A futuristic AI-powered suite for PDF tools, intelligent passport photo generation, and smart resume creation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
